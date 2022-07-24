@@ -50,7 +50,7 @@ Data Types
     | :python:`l = [a1, a2,..., an]`  | Constructs a list containing the objects :math:`a1, a2,..., an`.  You can append to the list using :python:`l.append()`.                           |
     |                                 | The :math:`ith` element of :math:`l` can be accessed using :python:`l[i]`                                                                          |
     +---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
-    | :python:`t =(a1, a2,..., an)`   | Constructs a tuple containing the objects :math:`a1, a2,..., an`.  The :math:`ith` element of :math:`t` can be accessed using :python:`t[i]`       |
+    | :python:`t = (a1, a2,..., an)`   | Constructs a tuple containing the objects :math:`a1, a2,..., an`.  The :math:`ith` element of :math:`t` can be accessed using :python:`t[i]`       |
     +---------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Built-In Functions
